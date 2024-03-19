@@ -382,7 +382,13 @@ sup {
     height: auto; /* Maintains the aspect ratio */
   }
 }
-
+@keyframes flash {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+.btn-flash {
+  animation: flash 3s infinite;
+}
 /*======================================================================
 ##		History Section
 =======================================================================*/
