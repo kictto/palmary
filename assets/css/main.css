@@ -553,11 +553,11 @@ sup {
 }
 @media(max-width: 420px){
 	.product-box.distribution{
-  height: 200vh;
+  height: 160vh;
 	position: relative;
 }
 	.product-box.manufacture{
-  height: 150vh;
+  height: 140vh;
 	position: relative;
 }
 }
