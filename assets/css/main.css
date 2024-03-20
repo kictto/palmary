@@ -543,7 +543,7 @@ sup {
 }
 @media(max-width: 520px){
 	.product-box.distribution{
-  height: 146vh;
+  height: 140vh;
 	position: relative;
 }
  .product-box.manufacture{
@@ -553,7 +553,7 @@ sup {
 }
 @media(max-width: 420px){
 	.product-box.distribution{
-  height: 160vh;
+  height: 150vh;
 	position: relative;
 }
 	.product-box.manufacture{
