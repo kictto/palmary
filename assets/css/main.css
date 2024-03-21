@@ -150,7 +150,7 @@ sup {
 }
 .intro{
 	  padding: 200px 0;
-    background-image: url(../images/home.png);
+    background-image: url(../images/home.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -486,13 +486,13 @@ sup {
 
 .shop-header .intro{
 	padding: -10px;
-	background-image: url(../images/home.png);
+	background-image: url(../images/home.jpg);
 }
 .contact-header .intro{
 	background-image: url(../images/contact-header.jpg);
 }
 .about-header .intro{
-	background-image: url(../images/home.png);
+	background-image: url(../images/home.jpg);
 	background-size: cover;
 
 }
